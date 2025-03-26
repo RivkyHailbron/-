@@ -11,7 +11,7 @@
     {
         "id": "9",
         "englishName": "Vanil Choclate Chip",
-        "name": "וניל-שוקולד-צ׳יפ",
+        "name": "וניל שוקולד צ׳יפ",
         "category": "iceCreams",
         "price": "16",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -47,7 +47,7 @@
     {
         "id": "6",
         "englishName": "Espreso Choclate Padj",
-        "name": "אספרסו-שוקולד-פאדג׳",
+        "name": "אספרסו שוקולד אדג׳",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -56,7 +56,7 @@
     {
         "id": "7",
         "englishName": "cheries in creame",
-        "name": "דובדבנים-בשמנת",
+        "name": "דובדבנים בשמנת",
         "category": "iceCreams",
         "price": "18",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -65,7 +65,7 @@
     {
         "id": "8",
         "englishName": "Italic vanil",
-        "name": "וניל-איטלקי",
+        "name": "וניל איטלקי",
         "category": "iceCreams",
         "price": "15",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -83,7 +83,7 @@
     {
         "id": "10",
         "englishName": "Braunis",
-        "name": "חמאת-בוטנים-ובראוניז",
+        "name": "חמאת בוטנים ובראוניז",
         "category": "iceCreams",
         "price": "16",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -92,7 +92,7 @@
     {
         "id": "11",
         "englishName": "Karamel",
-        "name": "טופי-קרמל-ואגוזי-לוז",
+        "name": "טופי קרמל ואגוזי לוז",
         "category": "iceCreams",
         "price": "18",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -101,7 +101,7 @@
     {
         "id": "12",
         "englishName": "Truple choclate",
-        "name": "טריפל-שוקולד",
+        "name": "טריפל שוקולד",
         "category": "iceCreams",
         "price": "16",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -110,7 +110,7 @@
     {
         "id": "13",
         "englishName": "Mint Chip",
-        "name": "מנטה-צ׳יפ",
+        "name": "מנטה צ׳יפ",
         "category": "iceCreams",
         "price": "15",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -146,7 +146,7 @@
     {
         "id": "17",
         "englishName": "Fruits",
-        "name": "סורבה-פירות-יער",
+        "name": "סורבה פירות יער",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -155,7 +155,7 @@
     {
         "id": "18",
         "englishName": "Pasiflory",
-        "name": "סורבה-פסיפלורה",
+        "name": "סורבה פסיפלורה",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -164,7 +164,7 @@
     {
         "id": "19",
         "englishName": "Strawberry",
-        "name": "סורבה-תות",
+        "name": "סורבה תות",
         "category": "iceCreams",
         "price": "18",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -173,7 +173,7 @@
     {
         "id": "20",
         "englishName": "Cheese Cake",
-        "name": "עוגת-גבינה-ניו-יורקית",
+        "name": "עוגת גבינה ניו יורקית",
         "category": "iceCreams",
         "price": "18",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -191,7 +191,7 @@
     {
         "id": "22",
         "englishName": "ferro Rosha",
-        "name": "פררו-רושה",
+        "name": "פררו רושה",
         "category": "iceCreams",
         "price": "16",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -200,7 +200,7 @@
     {
         "id": "23",
         "englishName": "ferro Rosha Parve",
-        "name": "פררו-רושה-פרווה",
+        "name": "פררו רושה פרווה",
         "category": "iceCreams",
         "price": "16",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -209,7 +209,7 @@
     {
         "id": "24",
         "englishName": "Kinder Bono",
-        "name": "קינדר-בואנו",
+        "name": "קינדר בואנו",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -218,7 +218,7 @@
     {
         "id": "25",
         "englishName": "Oreo Cookies",
-        "name": "קרם-עוגיות-אוריאו",
+        "name": "קרם עוגיות אוריאו",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -227,7 +227,7 @@
     {
         "id": "26",
         "englishName": "Lotus Cookies Cream",
-        "name": "קרם-עוגיות-לוטוס",
+        "name": "קרם עוגיות לוטוס",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -236,7 +236,7 @@
     {
         "id": "27",
         "englishName": "Cookies Cream",
-        "name": "קרם-עוגיות-פרווה",
+        "name": "קרם עוגיות פרווה",
         "category": "iceCreams",
         "price": "17",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -254,7 +254,7 @@
     {
         "id": "29",
         "englishName": "Dark Choclate",
-        "name": "שוקולד-מריר",
+        "name": "שוקולד מריר",
         "category": "iceCreams",
         "price": "15",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -263,7 +263,7 @@
     {
         "id": "30",
         "englishName": "Bnana Strawberry",
-        "name": "תות-בננה",
+        "name": "תות בננה",
         "category": "iceCreams",
         "price": "15",
         "description": "גלידה מפנקת בטעם של עוד",
@@ -335,7 +335,7 @@
     {
         "id": "38",
         "englishName": "yogurt frozen ",
-        "name": "פרוזן-יוגורט ",
+        "name": "פרוזן יוגורט ",
         "category": "yogurt",
         "price": "27",
         "description": " פרוזן-יוגורט פירות על פי בחירתכם האישית עסיסי קר ומזין  ",
@@ -344,7 +344,7 @@
     {
         "id": "39",
         "englishName": "americano ",
-        "name": "אמריקנו ",
+        "name": "אמריקנו",
         "category": "hotDrink",
         "price": "18",
         "description": "אמריקנו חם ומפנק  ",
@@ -353,7 +353,7 @@
     {
         "id": "40",
         "englishName": "espresso ",
-        "name": "אספרסו ",
+        "name": "אספרסו",
         "category": "hotDrink",
         "price": "18",
         "description": "אספרסו חם ומפנק  ",
@@ -362,7 +362,7 @@
     {
         "id": "41",
         "englishName": "apugato ",
-        "name": "אפוגטו ",
+        "name": "אפוגטו",
         "category": "hotDrink",
         "price": "18",
         "description": "אפוגטו חם ומפנק  ",
@@ -371,7 +371,7 @@
     {
         "id": "42",
         "englishName": "upside down ",
-        "name": "הפןך קטן זכוכית ",
+        "name": "הפןך קטן זכוכית",
         "category": "hotDrink",
         "price": "18.5",
         "description": "קפה הפוך חם ומפנק  ",
@@ -380,7 +380,7 @@
     {
         "id": "43",
         "englishName": "Nes coffee-on-milk ",
-        "name": "נס קפה על חלב קטן זכוכית ",
+        "name": "נס קפה על חלב קטן זכוכית",
         "category": "hotDrink",
         "price": "18.5",
         "description": "קפה הפוך חם ומפנק  ",
@@ -398,7 +398,7 @@
     {
         "id": "45",
         "englishName": " Chai latte ",
-        "name": "׳צאי-לאטה ",
+        "name": "׳צאי לאטה",
         "category": "hotDrink",
         "price": "20",
         "description": "  ׳צאי-לאטה  חם וטעים ",
@@ -407,7 +407,7 @@
     {
         "id": "46",
         "englishName": "Cappuccino-large ",
-        "name": "קפוצ'ינו-גדול",
+        "name": "קפוצ'ינו גדול",
         "category": "hotDrink",
         "price": "24",
         "description": "לבוקר מוצלח קפוצינו גדול חם ומפנק ",
@@ -416,7 +416,7 @@
     {
         "id": "47",
         "englishName": "Hot chocolate with folded ",
-        "name": "שוקו-חם-עם-מקופלת",
+        "name": "שוקו חם עם מקופלת",
         "category": "hotDrink",
         "price": "25",
         "description": "שוקו-חם-עם-מקופלת",
@@ -443,7 +443,7 @@
     {
         "id": "48",
         "englishName": "Flavored tea ",
-        "name": "וופל-בלגי ",
+        "name": "וופל בלגי ",
         "category": "hotDesserts",
         "price": "35",
         "description": "וופל בלגי בשילוב קצפת ומבחר שוקולדים ",
