@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stores</title>
+    <link rel="stylesheet" href="./storesStyle.css">
+    <link rel="stylesheet" href="./headerStyle.css">
+    <link rel="stylesheet" href="./ordersStyle.css">
+    <link rel="stylesheet" href="./footerStyle.css">
+    <link rel="shortcut icon" href="images/לוגו לבן כיתוב.jpg" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<header>
+    <img src="./images/icons/burger.png" id="burger" alt="">
+    <div id="menu">
+        <a href="./orders.html" id="btn_orders">להזמנות</a>
+        <img src="./images/לוגו בלי כיתוב שקוף.png" alt="" id="Logo">
+        <a id="first" href="./home.html">בית</a>
+        <a href="./about.html">אודותינו</a>
+        <a href="./stores.html">סניפים</a>
+        <a href="./events.html">ארועים</a>
+        <a href="./call.html">צרו קשר</a>
+        <a href="./requireds.html">בואו לעבוד אתנו</a>
+        <input type="text" id="myInput" onkeyup="searchFunc(this)" placeholder="Search for names..">
+        <h4>שלום <span id="currentName"></span></h4>
+        <button id="account" type="button"><img src="./images/תמונות מתחלפות וסל/shopping-cart.gif" alt=""></button>
+
+    </div>
+    <div class="popup" id="popupBasket">
+        <span class="close" id="closePopupBasket">×</span><br>
+        <div id="basket"></div>
+        <a href="./pay.html" id="pay"> לתשלום: <span id="myAmount">ש"ח</span></a>
+    </div>
+</header>
+
+<body>
+    <div id="storesDiv">
+        <h1>סניף אופקים</h1>
+        <div id="efrat" class="stores">
+            <div id="imgStore">
+                <img src="./images/תמונות סניפים/אופקים1-.jpeg" alt="">
+
+            </div>
+            <div id="time">
+                <div id="timeTitle">
+                    <h2>שעות פתיחה</h2>
+
+                </div>
+                <p>
+                    א'-ה' :08:00-23:00 <br>
+                    ו' ערבי חג:08:00-13:30 <br>
+                <h3>שדרות יהדות דרום אפריקה 14 אופקים</h3>
+                <h3>כשרות: מהדרין הרב אביטל</h3>
+                </p>
+            </div>
+            <div id="telephone">
+                <img src="./images/icons/phone.png" alt="">
+
+                <p>
+                <h2>08-6169166</h2>
+
+                </p>
+            </div>
+        </div>
+        <h1>סניף אשדוד</h1>
+        <div id="efrat" class="stores">
+            <div id="imgStore">
+                <img src="./images/תמונות סניפים/אשדוד2.jpeg" alt="">
+
+            </div>
+            <div id="time">
+                <div id="timeTitle">
+                    <h2>שעות פתיחה</h2>
+
+                </div>
+                <p>
+                    א'-ה' :09:00-23:00 <br>
+                    ו' ערבי חג:08:00-13:30 <br>
+                <h3>כתובת: צה"ל 1תאשדוד</h3>
+                <h3>כשרות: מהדרין הרב רובין</h3>
+                </p>
+            </div>
+            <div id="telephone">
+                <img src="./images/icons/phone.png" alt="">
+
+                <p>
+                <h2>08-6981212</h2>
+
+                </p>
+            </div>
+        </div>
+        <h1>סניף אפרת</h1>
+        <div id="efrat" class="stores">
+            <div id="imgStore">
+                <img src="./images/תמונות סניפים/אפרת-.jpeg" alt="">
+
+            </div>
+            <div id="time">
+                <div id="timeTitle">
+                    <h2>שעות פתיחה</h2>
+
+                </div>
+                <p>
+                    א'-ה' :09:00-22:00 <br>
+                    ו' ערבי חג:09:00-13:30 <br>
+                <h3>זית שמן 2תאפרת</h3>
+                <h3>כשרות: רבנות מהדרין אפרת</h3>
+                </p>
+            </div>
+            <div id="telephone">
+                <img src="./images/icons/phone.png" alt="">
+
+                <p>
+                <h2>02-5666467</h2>
+
+                </p>
+            </div>
+        </div>
+        <h1>סניף ביתר</h1>
+        <div id="efrat" class="stores">
+            <div id="imgStore">
+                <img src="./images/תמונות סניפים/ביתר-עלית-.jpeg" alt="">
+
+            </div>
+            <div id="time">
+                <div id="timeTitle">
+                    <h2>שעות פתיחה</h2>
+
+                </div>
+                <p>
+                    א'-ה' :08:00-23:00 <br>
+                    ו' ערבי חג:08:00-13:30 <br>
+                <h3>כתובת: בניין דוד 8, ביתר עילית</h3>
+                <h3>כשרות: מהדרין הרב רובין</h3>
+                </p>
+            </div>
+            <div id="telephone">
+                <img src="./images/icons/phone.png" alt="">
+
+                <p>
+                <h2>02-6455661</h2>
+
+                </p>
+            </div>
+        </div>
+        <h1>סניף בני ברק</h1>
+        <div id="efrat" class="stores">
+            <div id="imgStore">
+                <img src="./images/תמונות סניפים/בני-ברק-.jpeg" alt="">
+
+            </div>
+            <div id="time">
+                <div id="timeTitle">
+                    <h2>שעות פתיחה</h2>
+
+                </div>
+                <p>
+                    א'-ה' :09:00-23:00 <br>
+                    ו' ערבי חג:08:00-13:30 <br>
+                <h3>כתובת: צה"ל 1תאשדוד</h3>
+                <h3>כשרות: מהדרין הרב רובין</h3>
+                </p>
+            </div>
+            <div id="telephone">
+                <img src="./images/icons/phone.png" alt="">
+
+                <p>
+                <h2>08-6981212</h2>
+
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div id="followp">
+        <p>
+            FOLLOW US
+        </p>
+    </div>
+    <div id="sixPicturesWrap">
+        <div id="sixPictures">
+            <img src="images/ששת התמונות לbottom/1.jpg" alt="">
+            <img src="images/ששת התמונות לbottom/2.jpg" alt="">
+            <img src="images/ששת התמונות לbottom/3.jpg" alt="">
+            <img src="images/ששת התמונות לbottom/4.jpg" alt="">
+            <img src="images/ששת התמונות לbottom/5.jpg" alt="">
+            <img src="images/ששת התמונות לbottom/6.jpg" alt="">
+        </div>
+    </div>
+    <footer id="foo">
+        <div id="calls">
+            <h3 class="moreLinks">צור קשר</h3><br>
+            <p><img class="icon" src="images/icons/phone.png" alt=""> 02-6253722 </p><br>
+            <p><img class="icon" src="images/icons/mail.png" alt=""> katzefet.ice.cream@gmail.com </p>
+        </div>
+        <div id="nav">
+            <h3 class="moreLinks">נווט באתר</h3>
+            <a id="first" href="./home.html">דף הבית</a><br>
+            <a href="./about.html">הספור שלנו</a><br>
+            <a href="./stores.html">סניפים</a><br>
+            <a href="./events.html">ארועים</a><br>
+        </div>
+        <div id="links">
+            <h3 class="moreLinks">קשורים נוספים</h3>
+            <a href="./call.html">צור קשר</a><br>
+            <a href="./requireds.html">דרושים</a><br>
+            <a href="./gg">גיפט קארד</a><br>
+        </div>
+        <div id="logos">
+            <img class="imgLogo" src="images/לוגו בלי כיתוב שקוף.webp" alt="">
+        </div>
+    </footer>
+    <div class="popup" id="popup">
+        <span class="close" id="closePopup">×</span><br>
+        <div id="popper"></div>
+    </div>
+    <script src="./jquery-3.2.1.js"></script>
+    <script src="./app.js"></script>
+</body>
+
+</html>

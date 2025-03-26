@@ -1,0 +1,68 @@
+#menu :nth-child(5) {
+    color: rgb(245 188 215);
+}
+
+html {
+    margin-top: 100px;
+    direction: rtl;
+
+}
+
+#storesDiv {
+    display: block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(253, 190, 222);
+    padding: 2%;
+    text-align: right;
+
+}
+
+
+
+.stores {
+    display: flex;
+    flex-wrap: nowrap;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(247, 239, 243);
+    margin: 2%;
+    justify-content: space-between;
+    background-color: rgb(247, 239, 243);
+
+}
+
+.stores>div {
+    width: 33%;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+#telephone img,
+#timeTitle img {
+    width: 10%;
+}
+
+.stores #imgStore img {
+
+    width: 100%;
+
+}
+
+.stores #telephone {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    justify-content: center;
+}
+
+
+
+#storesDiv h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-right: 5%;
+}
+
+

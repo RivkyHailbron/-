@@ -1,0 +1,132 @@
+html {
+    direction: rtl;
+}
+
+
+
+#menu :nth-child(3) {
+    color: black;
+}
+
+#changeImages {
+    /* margin: 10%; */
+    display: flex;
+    justify-content: center;
+}
+
+#picturesStart img {
+    height: 3%;
+    width: 3%;
+}
+
+#image1 {
+    animation-name: image1;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    position: absolute;
+
+
+}
+
+#image2 {
+    animation-name: image2;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    position: absolute;
+
+}
+
+#image3 {
+    animation-name: image3;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    position: absolute;
+
+
+}
+
+
+.d-block {
+    width: 100%;
+    height: -50%;
+}
+
+#followp {
+    margin-top: 500px;
+
+}
+
+.animation {
+    animation-name: bigi;
+    animation-iteration-count: 2;
+    animation-duration: 1s;
+}
+
+@keyframes image1 {
+
+    0% {
+        opacity: 1;
+    }
+
+    33% {
+        opacity: 0;
+    }
+
+    66% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes image2 {
+    0% {
+        opacity: 0;
+    }
+
+    33% {
+        opacity: 1;
+    }
+
+    66% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes image3 {
+    0% {
+        opacity: 0;
+    }
+
+    33% {
+        opacity: 0;
+    }
+
+    66% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes bigi {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

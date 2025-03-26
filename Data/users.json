@@ -1,0 +1,16 @@
+[
+   {
+    "name":"רבקי",
+    "password": "1234",
+    "email":"rivky2712@gmail.com",
+    "totalSum": 0,
+    "pruducts":[
+      {
+         "id":1,
+         "count":1,
+         "price":15
+      }
+    ]
+
+   } 
+]

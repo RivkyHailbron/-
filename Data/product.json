@@ -1,0 +1,470 @@
+[
+    {
+        "id": "1",
+        "englishName": "Belgian chocolate",
+        "name": "שוקולד בלגי",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "חויה שוקולדית מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/Belgian chocolate שוקולד בלגי.jpg"
+    },
+    {
+        "id": "9",
+        "englishName": "Vanil Choclate Chip",
+        "name": "וניל-שוקולד-צ׳יפ",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/וניל-שוקולד-צ׳יפ-1024x1024.jpg"
+    },
+    {
+        "id": "3",
+        "englishName": "chocolate pretzels",
+        "name": "שוקולד בייגלה",
+        "category": "iceCreams",
+        "price": "12",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/chocolate pretzels שוקולד בייגלה.jpg"
+    },
+    {
+        "id": "4",
+        "englishName": "Dulce de leche",
+        "name": "ריבת חלב",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/Dulce de lecheריבת חלב.jpg"
+    },
+    {
+        "id": "5",
+        "englishName": "Pistachio",
+        "name": "פיסטוק",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/Pistachio פיסטוק.jpg"
+    },
+    {
+        "id": "6",
+        "englishName": "Espreso Choclate Padj",
+        "name": "אספרסו-שוקולד-פאדג׳",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/אספרסו-שוקולד-פאדג׳-1024x1024.jpg"
+    },
+    {
+        "id": "7",
+        "englishName": "cheries in creame",
+        "name": "דובדבנים-בשמנת",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/דובדבנים-בשמנת-1024x1024.jpg"
+    },
+    {
+        "id": "8",
+        "englishName": "Italic vanil",
+        "name": "וניל-איטלקי",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/וניל-איטלקי-2-1024x1024.jpg"
+    },
+    {
+        "id": "9",
+        "englishName": "Caramel pretzel",
+        "name": "קרמל פרעצל",
+        "category": "iceCreams",
+        "price": "12",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/Caramel pretzel קרמל פרעצל.jpg"
+    },
+    {
+        "id": "10",
+        "englishName": "Braunis",
+        "name": "חמאת-בוטנים-ובראוניז",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/חמאת-בוטנים-ובראוניז-2-1024x1024.jpg"
+    },
+    {
+        "id": "11",
+        "englishName": "Karamel",
+        "name": "טופי-קרמל-ואגוזי-לוז",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/טופי-קרמל-ואגוזי-לוז-1024x1024.jpg"
+    },
+    {
+        "id": "12",
+        "englishName": "Truple choclate",
+        "name": "טריפל-שוקולד",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/טריפל-שוקולד-1024x1024.jpg"
+    },
+    {
+        "id": "13",
+        "englishName": "Mint Chip",
+        "name": "מנטה-צ׳יפ",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/מנטה-צ׳יפ-1024x1024.jpg"
+    },
+    {
+        "id": "14",
+        "englishName": "Bubble Gum",
+        "name": "מסטיק",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/מסטיק-1024x1024.jpg"
+    },
+    {
+        "id": "15",
+        "englishName": "Marshmelo",
+        "name": "מרשמלו",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/מרשמלו-1024x1024.jpg"
+    },
+    {
+        "id": "16",
+        "englishName": "Mango",
+        "name": "סורבה מנגו",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/סורבה-מנגו-1024x1024.jpg"
+    },
+    {
+        "id": "17",
+        "englishName": "Fruits",
+        "name": "סורבה-פירות-יער",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/סורבה-פירות-יער-1024x1024.jpg"
+    },
+    {
+        "id": "18",
+        "englishName": "Pasiflory",
+        "name": "סורבה-פסיפלורה",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/סורבה-פסיפלורה-1024x1024.jpg"
+    },
+    {
+        "id": "19",
+        "englishName": "Strawberry",
+        "name": "סורבה-תות",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/סורבה-תות-1024x1024.jpg"
+    },
+    {
+        "id": "20",
+        "englishName": "Cheese Cake",
+        "name": "עוגת-גבינה-ניו-יורקית",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/עוגת-גבינה-ניו-יורקית-1024x1024.jpg"
+    },
+    {
+        "id": "21",
+        "englishName": "Chinese pekan",
+        "name": "פקאן סיני",
+        "category": "iceCreams",
+        "price": "18",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/פקאן-סיני-1024x1024.jpg"
+    },
+    {
+        "id": "22",
+        "englishName": "ferro Rosha",
+        "name": "פררו-רושה",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/פררו-רושה-1024x1024.jpg"
+    },
+    {
+        "id": "23",
+        "englishName": "ferro Rosha Parve",
+        "name": "פררו-רושה-פרווה",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/פררו-רושה-פרווה-1024x1024.jpg"
+    },
+    {
+        "id": "24",
+        "englishName": "Kinder Bono",
+        "name": "קינדר-בואנו",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/קינדר-בואנו-1024x1024.jpg"
+    },
+    {
+        "id": "25",
+        "englishName": "Oreo Cookies",
+        "name": "קרם-עוגיות-אוריאו",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/קרם-עוגיות-אוריאו-1024x1024.jpg"
+    },
+    {
+        "id": "26",
+        "englishName": "Lotus Cookies Cream",
+        "name": "קרם-עוגיות-לוטוס",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/קרם-עוגיות-לוטוס-1024x1024.jpg"
+    },
+    {
+        "id": "27",
+        "englishName": "Cookies Cream",
+        "name": "קרם-עוגיות-פרווה",
+        "category": "iceCreams",
+        "price": "17",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/קרם-עוגיות-פרווה-1024x1024.jpg"
+    },
+    {
+        "id": "28",
+        "englishName": "Refealo",
+        "name": "רפאלו",
+        "category": "iceCreams",
+        "price": "16",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/רפאלו-1024x1024.jpg"
+    },
+    {
+        "id": "29",
+        "englishName": "Dark Choclate",
+        "name": "שוקולד-מריר",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/שוקולד-מריר-1024x1024.jpg"
+    },
+    {
+        "id": "30",
+        "englishName": "Bnana Strawberry",
+        "name": "תות-בננה",
+        "category": "iceCreams",
+        "price": "15",
+        "description": "גלידה מפנקת בטעם של עוד",
+        "img": "images/products/iceCreams/תות-בננה-2-1024x1024.jpg"
+    },
+    {
+        "id": "31",
+        "englishName": "Cappuccino iced coffee",
+        "name": "אייס קפוצינו",
+        "category": "ices",
+        "price": "25",
+        "description": "אייס קפוצינו מפנק בטעם ארומטי בתוספת קצפת אורירית וטעימה ברמות",
+        "img": "images/products/ices/Cappuccino iced coffee איייס קפוצינו.jpg"
+    },
+    {
+        "id": "32",
+        "englishName": "Cold coffee",
+        "name": "אייס קפה קר",
+        "category": "ices",
+        "price": "23",
+        "description": "אייס קפה מפנק בטעם ארומטי בתוספת קצפת אורירית וטעימה ברמות",
+        "img": "images/products/ices/Cold coffee קפה קר.jpg"
+    },
+    {
+        "id": "33",
+        "englishName": "Pecan iced coffe",
+        "name": "אייס פקאן",
+        "category": "ices",
+        "price": "28",
+        "description": "אייס פקאן מפנק בטעם ארומטי בתוספת קצפת אורירית וטעימה ברמות",
+        "img": "images/products/ices/Pecan iced coffe אייס פקאן.jpg"
+    },
+    {
+        "id": "34",
+        "englishName": "Signature iced coffee",
+        "name": "אייס קצפת",
+        "category": "ices",
+        "price": "25",
+        "description": "אייס קצפת מפנק בטעם ארומטי בתוספת קצפת אורירית וטעימה ברמות",
+        "img": "images/products/ices/Signature iced coffeeאייס קצפת.jpg"
+    },
+    {
+        "id": "35",
+        "englishName": "Fruit shake",
+        "name": "שייק פירות",
+        "category": "shakes",
+        "price": "29",
+        "description": "שייק פירות עשיר בפירות ",
+        "img": "images/products/shakes/Fruit shakeשייק פיקות.jpg"
+    },
+    {
+        "id": "36",
+        "englishName": "Milkshakes ",
+        "name": "מילקשייקים ",
+        "category": "shakes",
+        "price": "27",
+        "description": "שייק פירות עשיר בפירות ",
+        "img": "images/products/shakes/Milkshakes מילקשייקים.jpg"
+    },
+    {
+        "id": "37",
+        "englishName": "yogurt natural ",
+        "name": "יוגורט-טבעי ",
+        "category": "yogurt",
+        "price": "25",
+        "description": "יוגורט עם  פירות לבחירתכם האישית  ",
+        "img": "images/products/yogurt/יוגורט-טבעי-1024x1024.jpg"
+    },
+    {
+        "id": "38",
+        "englishName": "yogurt frozen ",
+        "name": "פרוזן-יוגורט ",
+        "category": "yogurt",
+        "price": "27",
+        "description": " פרוזן-יוגורט פירות על פי בחירתכם האישית עסיסי קר ומזין  ",
+        "img": "images/products/yogurt/פרוזן-יוגורט-1024x1024.jpg"
+    },
+    {
+        "id": "39",
+        "englishName": "americano ",
+        "name": "אמריקנו ",
+        "category": "hotDrink",
+        "price": "18",
+        "description": "אמריקנו חם ומפנק  ",
+        "img": "images/products/hotDrink/אמריקנו-1024x1024.jpg"
+    },
+    {
+        "id": "40",
+        "englishName": "espresso ",
+        "name": "אספרסו ",
+        "category": "hotDrink",
+        "price": "18",
+        "description": "אספרסו חם ומפנק  ",
+        "img": "images/products/hotDrink/אספרסו-1024x1024.jpg"
+    },
+    {
+        "id": "41",
+        "englishName": "apugato ",
+        "name": "אפוגטו ",
+        "category": "hotDrink",
+        "price": "18",
+        "description": "אפוגטו חם ומפנק  ",
+        "img": "images/products/hotDrink/אפוגטו-1024x1024.jpg"
+    },
+    {
+        "id": "42",
+        "englishName": "upside down ",
+        "name": "הפןך קטן זכוכית ",
+        "category": "hotDrink",
+        "price": "18.5",
+        "description": "קפה הפוך חם ומפנק  ",
+        "img": "images/products/hotDrink/הפוך-קטן-זכוכית-1024x1024.jpg"
+    },
+    {
+        "id": "43",
+        "englishName": "Nes coffee-on-milk ",
+        "name": "נס קפה על חלב קטן זכוכית ",
+        "category": "hotDrink",
+        "price": "18.5",
+        "description": "קפה הפוך חם ומפנק  ",
+        "img": "images/products/hotDrink/נס-על-חלב-קטן-זכוכית-1024x1024.jpg"
+    },
+    {
+        "id": "44",
+        "englishName": "orchid ",
+        "name": "סחלב ",
+        "category": "hotDrink",
+        "price": "19",
+        "description": " סחלב חם ומפנק  ",
+        "img": "images/products/hotDrink/סחלב-1024x1024.jpg"
+    },
+    {
+        "id": "45",
+        "englishName": " Chai latte ",
+        "name": "׳צאי-לאטה ",
+        "category": "hotDrink",
+        "price": "20",
+        "description": "  ׳צאי-לאטה  חם וטעים ",
+        "img": "images/products/hotDrink/צ׳אי-לאטה-1024x1024.jpg"
+    },
+    {
+        "id": "46",
+        "englishName": "Cappuccino-large ",
+        "name": "קפוצ'ינו-גדול",
+        "category": "hotDrink",
+        "price": "24",
+        "description": "לבוקר מוצלח קפוצינו גדול חם ומפנק ",
+        "img": "images/products/hotDrink/קפוצ׳ינו-גדול-1024x1024.jpg"
+    },
+    {
+        "id": "47",
+        "englishName": "Hot chocolate with folded ",
+        "name": "שוקו-חם-עם-מקופלת",
+        "category": "hotDrink",
+        "price": "25",
+        "description": "שוקו-חם-עם-מקופלת",
+        "img": "images/products/hotDrink/שוקו-חם-עם-מקופלת-1024x1024.jpg"
+    },
+    {
+        "id": "47",
+        "englishName": "Chocuccino ",
+        "name": "שוקוצ׳ינו",
+        "category": "hotDrink",
+        "price": "23",
+        "description": "שוקוצ׳ינו-חם-",
+        "img": "images/products/hotDrink/שוקוצ׳ינו-1024x1024.jpg"
+    },
+    {
+        "id": "47",
+        "englishName": "Flavored tea ",
+        "name": "תה בטעמים",
+        "category": "hotDrink",
+        "price": "17",
+        "description": "תה בטעמים ",
+        "img": "images/products/hotDrink/תה-בטעמים-1024x1024.jpg"
+    },
+    {
+        "id": "48",
+        "englishName": "Flavored tea ",
+        "name": "וופל-בלגי ",
+        "category": "hotDesserts",
+        "price": "35",
+        "description": "וופל בלגי בשילוב קצפת ומבחר שוקולדים ",
+        "img": "images/products/hotDesserts/וופל-בלגי-1024x1024.jpg"
+    },
+    {
+        "id": "49",
+        "englishName": "Strawberry crepe ",
+        "name": "קרפ תותים",
+        "category": "hotDesserts",
+        "price": "38",
+        "description": "קרפ תותים",
+        "img": "images/products/hotDesserts/קרפ תותים.jpg"
+    },
+    {
+        "id": "50",
+        "englishName": "French crape ",
+        "name": "קרפ צרפתי ",
+        "category": "hotDesserts",
+        "price": "35",
+        "description": "קרפ צרפתי בשילוב קצפת ומבחר שוקולדים ",
+        "img": "images/products/hotDesserts/קרפ-צרפתי-1024x1024.jpg"
+    }
+]

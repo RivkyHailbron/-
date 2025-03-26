@@ -1,0 +1,72 @@
+html {
+    direction: rtl;
+    width: 100%;
+}
+
+#menu :nth-child(4) {
+    color: rgb(245 188 215);
+}
+
+
+#aboutPage {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    padding-top: 10%;
+    background-image: url(./images/products/hotDesserts/קרפ\ תותים.jpg);
+    background-size: cover;
+}
+
+#sideA {
+    width: 40%;
+    padding-top: 10%;
+    color: rgb(242, 232, 232);
+    text-shadow: black;
+    font-size: 150px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 0px rgb(25, 90, 102);
+    /* mix-blend-mode: screen; */
+}
+
+#sideB p {
+    background-color: rgba(255, 255, 255, 0.5);
+    /* border: 3px solid rgb(255, 255, 255); */
+    padding: 3%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+#sideB {
+    padding: 6%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: large;
+   
+
+
+}
+
+.animation :hover img {
+    animation-name: bigi;
+    animation-iteration-count: 1;
+    animation-duration: 4s;
+}
+
+@keyframes bigi {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
