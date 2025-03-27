@@ -76,9 +76,11 @@ myBasket.onclick = () => {
             popperBasket.appendChild(productDiv);
 
             BtnPlus.onclick = () => {
-                conut.innerHTML = Number(conut.innerHTML) + 1;
-                price.innerHTML = `סה"כ:${Number(product.price) + Number(currentProduct.price)}`;
-                mYamount.innerHTML = (Number(currentProduct.price) + Number(mYamount.innerHTML));
+                const currentPrice = Number(currentProduct.price); // ודא שהמחיר הוא מספר
+                const currentAmount = Number(conut.innerHTML); // ודא שהכמות היא מספר
+                conut.innerHTML = currentAmount + 1;
+                price.innerHTML = `סה"כ: ₪${currentPrice * (currentAmount + 1)}`;
+                mYamount.innerHTML = String(Number(mYamount.innerHTML) + currentPrice); // עדכון סכום
                 myUserobj.totalSum = mYamount.innerHTML;
                 usersArr[currentUsreIndex].totalSum += Number(currentProduct.price);
                 usersArr[currentUsreIndex].productArr[ProductIndex].price += Number(currentProduct.price);
@@ -88,8 +90,8 @@ myBasket.onclick = () => {
             BtnMinus.onclick = () => {
                 if (Number(conut.innerHTML) > 1) {
                     conut.innerHTML = Number(conut.innerHTML) - 1;
-                    price.innerHTML =`סה"כ:${(Number(product.price) - Number(currentProduct.price))}`;
-                    mYamount.innerHTML = ((Number(mYamount.innerHTML)) - Number(currentProduct.price));
+                    price.innerHTML = `סה"כ: ₪${currentPrice * Number(conut.innerHTML)}`; // עדכון מחיר
+                    mYamount.innerHTML = String(Number(mYamount.innerHTML) - currentPrice); // עדכון סכום
                     myUserobj.totalSum = mYamount.innerHTML;
                     usersArr[currentUsreIndex].totalSum -= Number(currentProduct.price);
                     usersArr[currentUsreIndex].productArr[ProductIndex].price -= Number(currentProduct.price);
@@ -100,13 +102,15 @@ myBasket.onclick = () => {
                     productArrOfCurrentUser.splice(ProductIndex, 1);
                     popperBasket.removeChild(productDiv);
                     //עדכון יתרה לתשלום:
-                    mYamount.innerHTML -= product.price;
+                    mYamount.innerHTML -= String(Number(mYamount.innerHTML) - product.price); // עדכון סכום
                     usersArr[currentUsreIndex].totalSum -= product.price;
                     myUserobj.totalSum -= product.price;
                     usersArr[currentUsreIndex].productArr = productArrOfCurrentUser;
                     setLocalAndSession(myUserobj, usersArr);
                 }
             }
+
+           
             garbage.onclick = () => {
                 //שיהיה לנו מה לעשות  מחר - יום רביעי....:)
                 //מחיקת הפריט מן הסל
